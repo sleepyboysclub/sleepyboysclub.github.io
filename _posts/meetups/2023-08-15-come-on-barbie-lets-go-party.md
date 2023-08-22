@@ -4,6 +4,6 @@ title: Come on, Barbie, Let's Go Party
 categories: meetups
 ---
 
-<img src="https://lh3.googleusercontent.com/pw/AIL4fc9lIKaYLqUHdmyyd0cjwVj1jb9x_Xy-wq2N3Azdy4-0DU3hOh6INLvg8T27Pf6gOTpLS-ZisLVnxi25bKorvpEl-Bm8HK9A0ynvmPCfxLLeWGdGa7Rkgl3LJbXX-e4IvabdYP0Vv-52Xo6CPhUHtImi11sg0WFZF66k37kylSaCnS4EuHAykX6YuIo4EIy50NcPgEUjkRWijZJMS3ds9o5zdOMEW_mydAh5T5IlQw5ZZ4blaikZdSDugzOOQUzT_duYZ6wZ0D31_ObCum7XN_2Ltg0FCYDOmll1nz7sKo0ur1n-Wt7N439CNkFLh9QsL7wL5FT6hNBfzQbkzHI_EXd1lIDZyuBB3gUf-EfqyLwbfMDVbYQF0qMDHKOenpJeoOeil7zjyzGJTMgfr7WR9vT0GJfJrNKACasS7a8O--hHE8_dR-j-YoquDPD_pR0UA8j6QFDPsc6Zvd9I3zeWgAOOwU66sO_QS-bOiWlFZ22yzEBbZLC0hY_8WpYsmlLTTAFjv0cUd5xD7Khq780fsqFImjwftN7s9NN0To_CRO5i9TrP2SjvofskYEvXP9TjsSFPGWmg2JUZaz3PXrQzF0zxnmH2J6_zHlhQZMFhsRkjKEsWrcQ3WXEohyDu2SjWLMVZrinTxkzI_1FVFbvsQMBbv4Il39m2-71IQBF5Huxz52OGVlYNm8yeRfMUC4HdQZQIlKREWkT0fupXU5XBK--AyV6uswYbhWZLgFKwxO48mYsVpCSssg94pG-ujPPtdHY_w67bUpcuDJ26T011chFKM397LUK8ir5O1IXR1b61M141fGltMwHzOKLxdogHAr-5gy5CEpDLVM-2u6yno0dBmqBgP_nx8L-vdbBMxE-EPgF2G2YlPzondpCyIFpaz5XIeNEn3FQXQkb7RjHy=w2048-h1536-s-no?authuser=0" alt="Barbie Movie Selfie" width="500"/>
+<img src="https://drive.google.com/uc?export=view&id=1ysp39yCAFgdZaqDYmqgzI9_urq6r6Zdp" alt="Barbie Movie Selfie" width="500"/>
 
 For this month’s Sleepy Boys Club activity, we attended a showing of the Barbie movie! One member of the club described it as “Existential crisis, but make it pink.”
