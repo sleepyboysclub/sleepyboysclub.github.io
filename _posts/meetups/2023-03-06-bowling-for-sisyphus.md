@@ -1,5 +1,5 @@
 ---
-layout: blog
+layout: post
 title: Bowling for Sisyphus
 categories: meetups
 ---
