@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Meditation: A Socratic Seminar
+title: "Meditation: A Socratic Seminar"
 categories: meetups
 ---
 
-<img src="https://photos.fife.usercontent.google.com/pw/AIL4fc9MLYCFoMDz5UnikBmwM6LbTdvGZzjOVbJorz5Szl6ffwuAsVZTxAA=w293-h220-no?authuser=0" alt="Socratic Seminar Selfie" width="500"/>
+<img src="https://lh3.googleusercontent.com/pw/AIL4fc_VyCFtvuBh4hA4E2_M--ww3seI91E6FMT1pBm97BJ6Tx3PEILCGASeG_LoXx_CqNmojDexmcAZaJUx3DKHnCJPUy1Kg5M3mYoigjVE40qrd4zO5CU2mi2B95w_Wk8A10TY5kFBYP9rg_QDiDxYNvfz62OuixHOaIynU2mXxtuLnCgwgPjQshZs6FSjGzzR5IfkCb8w67IgFijULMsEjM-1ZAUuBQF0k0bCYXo_Wvvc_Pa7Bd58e8EfOsv_iop0paRBfvWocFrv4EelMFMWNgpjsSgD7i9NL0GI6DgtksEpiu1YSmTyY0leUrcCGIuJfVzW0q31nuJld9e6yD11-FXfDAvkdOfpwv8Mja9LMdeeyciehWor3siBtQZHa7CpjvicR0Wppy3_kDoItZtyxpH5YsPy4kJHdHzXlnT1_XIhBnwuSG3UJYoR49QflZnKDfirgwjy8rsjw6sCKRUBs09R8LwkUG3nLcK2SWzyrmfCD1OSQwthyAX6vN5L2ju02C8tX1L90MEYUbauqxiufhZd9zIJF_Ts_53A6nRBP7A7nqRxDe0xqd9zj5BlC-R-cE9QkOG6xHfVM8--3zIXDBKR1nxiEkR2aHAvIPtFlRaWU3vSRL3QAThVHXZ1PnMbPnoc27hlca5SaLS9abbbHJfNGtlruwjRnAkL1Cz_y2EssQlcBtGjc1p4iq8ZE6N2uijwHL-ncWDAsOZMbT3T0-YU2oxxMZ7HhyA547FT0IauXOQlx_Xr8SkrhjUVgDrbYHtm5hgmypLTUIQoovyICLoHPHVsPO7k1xiALJrZ_DHF4TUQtyzXv05Oh3gIMJHCpUGfh-YoptxbfXzd5cZsyLqk0P5hzUkAQRAmryFVwqEzEgDR_W5hywZi-DtcNWnYrsvFhz--v8WWh-sw0brV=w2048-h1536-s-no?authuser=0" alt="Socratic Seminar Selfie" width="500"/>
 
 After skipping a month due to low attendance, the sleepy boys gathered to discuss meditation and mindfulness. Discussion around the purpose, benefit, and practice of meditation was enlightening. We agreed that meditation is a practice that one can constantly seek and one that can be employed in tandem with other activities such as music, climbing, or even in every day interactions. The important part is the practice itself and the meaning that one derives from it.
