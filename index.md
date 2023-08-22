@@ -11,4 +11,4 @@ The modern promulgation of toxic ideologies and figures in media--particularly o
 
 Though the initial impetus and primary design of the Sleepy Boys Club is to provide a third space for positive masculinity, the club was established for _all_--regardless of sex or gender--who seek a community, support, and friendship without the bullsh*t.
 
-- read about our [past events](/pages/blog.md#meetups)
+Read about our [past events](/pages/archive.md#meetups)
