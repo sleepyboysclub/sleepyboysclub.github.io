@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Momento Mori: Self Eulogy"
-categories: study
+categories: meetups
 ---
 
 On October 2nd, 2023, the Sleepy Boys Club will gather for a monthly meetup, focused on the topic of Momento Mori. 
