@@ -25,3 +25,5 @@ We will consider and write our thoughts about the life we would like to live, th
 (Article) [Momento Mori](https://www.britannica.com/topic/memento-mori), Britannica
 
 (Article) [Momento Mori](https://en.wikipedia.org/wiki/Memento_mori), Wikipedia
+
+(Playlist) [The Sleepy Boys Club Self Eulogy Playlist](https://open.spotify.com/playlist/6RriRvmdc19Pbmm9uvfzJX?si=3fe447977f2b4b11), Spotify
