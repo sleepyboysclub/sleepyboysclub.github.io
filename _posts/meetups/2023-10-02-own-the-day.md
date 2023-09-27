@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Book Club - Own the Day
+title: Own the Day: A Book Club Discussion
 categories: future-meetups
 ---
 
