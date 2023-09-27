@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Book Club - Own the Day
-categories: meetups
+categories: future-meetups
 ---
 
 On November 6th, the Sleepy Boys Club will meet for a group discussion about healthy daily habits. The discussion will focus on Aubrey Marcus’s book, “Own the Day, Own Your Life.”
