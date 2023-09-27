@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Momento Mori: Self Eulogy Activity"
+title: "Momento Mori: Writing Your Own Eulogy"
 categories: future-meetups
 ---
 
